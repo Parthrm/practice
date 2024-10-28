@@ -18,14 +18,74 @@
 		],
 		"description": "cpp starter snipped"
 	},
+
+	// vector arrays
 	"vector integer": {
 		"scope": "cpp",
-		"prefix": "v_int",
+		"prefix": "vi",
 		"body": [
 			"vector<int> a;",
 		],
 		"description": "cpp starter snipped"
 	},
+	"vector float": {
+		"scope": "cpp",
+		"prefix": "vf",
+		"body": [
+			"vector<float> a;",
+		],
+		"description": "cpp starter snipped"
+	},
+	"vector char": {
+		"scope": "cpp",
+		"prefix": "vc",
+		"body": [
+			"vector<char> a;",
+		],
+		"description": "cpp starter snipped"
+	},
+	"vector string": {
+		"scope": "cpp",
+		"prefix": "vs",
+		"body": [
+			"vector<string> a;",
+		],
+		"description": "cpp starter snipped"
+	},
+	"vector vector integer": {
+		"scope": "cpp",
+		"prefix": "vvi",
+		"body": [
+			"vector<vector<int>> a;",
+		],
+		"description": "cpp starter snipped"
+	},
+	"vector vector float": {
+		"scope": "cpp",
+		"prefix": "vvf",
+		"body": [
+			"vector<vector<float>> a;",
+		],
+		"description": "cpp starter snipped"
+	},
+	"vector vector char": {
+		"scope": "cpp",
+		"prefix": "vvc",
+		"body": [
+			"vector<vector<char>> a;",
+		],
+		"description": "cpp starter snipped"
+	},
+	"vector vector string": {
+		"scope": "cpp",
+		"prefix": "vvs",
+		"body": [
+			"vector<vector<string>> a;",
+		],
+		"description": "cpp starter snipped"
+	},
+
+
 	"list builder from a vector int": {
 		"scope": "cpp",
 		"prefix": "l_build",
@@ -41,7 +101,7 @@
 	},
 	"cout endl": {
 		"scope": "cpp",
-		"prefix": "nline",
+		"prefix": "nl",
 		"body": [
 			"cout<<endl;",
 		],

@@ -20,4 +20,5 @@ public:
 int main(){
     Solution s;
     cout<<(s.isPalindrome("A man, a plan, a canal: Panama")); // true
+    
 }
